@@ -1722,7 +1722,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 <br />
                 <sub><b>Prabhat Jha</b></sub>
             </a>
-        </td>
+            </td>
+                <a href="https://github.com/MuhammadUsmanBash/">
+                <img src="https://avatars.githubusercontent.com/u/124618182?v=4" width="100px;" alt="Muhammad Usman"/>
+                <br />
+                <sub><b>Muhammad Usman</b></sub>
+            </a>
+            </td>
         </tr>
     </tbody>
-</table>
+</tab
